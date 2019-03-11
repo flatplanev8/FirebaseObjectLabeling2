@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331368383729",
+    "firebase_url": "https://fir-imagelabeling2.firebaseio.com",
+    "project_id": "fir-imagelabeling2",
+    "storage_bucket": "fir-imagelabeling2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331368383729:android:38c9d90bd6bdadd4",
+        "android_client_info": {
+          "package_name": "com.shaswata.firebaseimagelabeling2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331368383729-m9tolrbh1184mhmpv026dv8jo62ue1f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaswata.firebaseimagelabeling2",
+            "certificate_hash": "90e5e2d0c354465bd003b0437e4a1c4be1f450f6"
+          }
+        },
+        {
+          "client_id": "331368383729-i836u3ksnjddu1tpvq9au14a8hr6uut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lb-Hf9TMh0Ok_7_o3cr1fcqqvoHeKOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331368383729-i836u3ksnjddu1tpvq9au14a8hr6uut8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
